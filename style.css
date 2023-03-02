@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(231, 32, 238);
+ }
+
+header {
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+ }
+
+ .rettangolo {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    height: 70px;
+    width: 265px;
+    text-align: center;
+    display: inline-block;
+margin: 20px; }
+  
+main {
+        text-align: center;
+        max-width: 940px;
+        margin: auto;
+    }
+
+
+
+
+ img {
+    height: 70px;
+    width: 70px;
+    float: left;
+ }
+
+ .email {
+   color: rgb(40, 156, 245);
+}
